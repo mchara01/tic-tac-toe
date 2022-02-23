@@ -25,6 +25,8 @@ To set up and play your tic-tac-toe game, you can:
 
 3. open `http://localhost:8080/` in two separate web browsers with each a separate Metamask installed, and enjoy the game. On Chrome you can create **two different users** and install Metamask in each. You'll need to configure Metamask to connect to your local chain as well (which is not graded but we leave this up to you as part of the exercise for your own testing).
 
+In the logs of the ganache container we can find the private keys which we can use to import an account after we create a private network that runs on http://127.0.0.1:8545. The chainId is 0x539.
+
 # Grading Scheme
 
 You can get 100% of the grades with 10 points, distributed as follows over the 7 functions of the contract:
