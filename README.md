@@ -1,4 +1,4 @@
-# Decentalised Tic-Tac-Toe
+# Tic-Tac-Toe dapp
 
 Create a decentralized application for a tic-tac-toe game.
 
