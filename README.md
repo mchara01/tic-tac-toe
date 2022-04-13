@@ -1,6 +1,6 @@
 # Tic-Tac-Toe dapp
 
-Create a decentralized application for a tic-tac-toe game.
+Decentralized application for a tic-tac-toe game.
 
 ## Instructions
 You can run `docker build -t tic-tac-toe .` to build the tic-tac-toe docker image.
